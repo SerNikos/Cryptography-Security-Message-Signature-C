@@ -1,4 +1,4 @@
-//NIKOLAOS SERGIS 18390173 PADA EX 4
+//NIKOLAOS SERGIS PADA EX 4
 
 #include <stdio.h>
 #include <openssl/bn.h>
